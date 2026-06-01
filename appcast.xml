@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Apprentice</title>
+    <link>https://raw.githubusercontent.com/Reppin123/apprentice-updates/main/appcast.xml</link>
+    <description>Auto-update feed for the Apprentice macOS app.</description>
+    <language>en</language>
+    <item>
+      <title>Apprentice 0.1.5</title>
+      <pubDate>Fri, 29 May 2026 09:20:24 +0000</pubDate>
+      <sparkle:version>0.1.5</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https://github.com/Reppin123/apprentice-updates/releases/download/v0.1.5/Apprentice-0.1.5.zip"
+          length="236855012"
+          type="application/octet-stream"
+          sparkle:edSignature="YG6tHaTqL0uWRHDZPdRaKYBjmYIGQECccMo7/BeDSXjCi46bvozwnN6mwSLYBte0F5dHowEU1LaHDKH3eNnBBg==" />
+    </item>
+  </channel>
+</rss>
