@@ -8,6 +8,18 @@
     <description>Auto-update feed for the Apprentice macOS app.</description>
     <language>en</language>
     <item>
+        <title>Apprentice 0.2.0</title>
+        <pubDate>Sat, 06 Jun 2026 12:01:35 +0000</pubDate>
+        <sparkle:version>0.2.0</sparkle:version>
+        <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        <enclosure
+            url="https://github.com/Reppin123/apprentice-updates/releases/download/v0.2.0/Apprentice-0.2.0.zip"
+            length="321954714"
+            type="application/octet-stream"
+            sparkle:edSignature="Kb7p/MnTdX/ZxEGN11cEqcZuX4pOLF+1MoCJHWbJk0wRU6SW1fyi9AvsG1KNzlFYrk7rBG8EPWtsGAoFxledBQ==" />
+    </item>
+    <item>
         <title>Apprentice 0.1.9</title>
         <pubDate>Thu, 04 Jun 2026 20:01:09 +0000</pubDate>
         <sparkle:version>0.1.9</sparkle:version>
